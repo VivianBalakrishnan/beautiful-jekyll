@@ -25,6 +25,7 @@ description: Live, love and learn - always
 navbar-links:
   About Me: "aboutme"
   Resources:
+    - My Sudoku Solver: "http://vivian.balakrishnan.sg/sudoku"
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
